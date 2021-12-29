@@ -3,8 +3,7 @@ The object detector is created using the pre trained SSD ( Single Shot Detection
 
 ## Results
 
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+
+
+https://user-images.githubusercontent.com/55275845/147640238-d3c7205f-34ef-48cd-969e-5bc648521aac.mp4
+
